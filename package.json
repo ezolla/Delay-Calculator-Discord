@@ -1,0 +1,19 @@
+{
+  "name": "delay-calculator",
+  "version": "1.0.0",
+  "description": "Sneaker Botting Delay Calculator to Avoid Bans!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ethan Zoller",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
