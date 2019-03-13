@@ -46,4 +46,4 @@ If you would like to run this 24/7 off your personal machine I would reccomend u
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
